@@ -4,6 +4,7 @@
 
 Hieronder is mijn praatplaat te zien over de eerste 4 sprints dit jaar, doormiddel van een staafdiagram heb ik mijn progressie laten zien. 
  - Groene tekst: Valkuil(en) die bij de sprints horen
+ - De pijlen: Die geven de route aan die ik heb 'bewandeld' 
 
 Na sprint 4 zie je mij met een verrekijker staan, hier kijk ik naar mijn doelen die ik wil behalen. Deze doelen zijn afgebeeld in een wolk. 
 
